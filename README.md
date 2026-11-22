@@ -1,5 +1,4 @@
 # Messaging App
-___
 
 ## Απαιτήσεις
 Android SDK: 37.1
